@@ -149,7 +149,7 @@
 
 #input3:hover{
 			
-			background:white;
+			background:#ddd;
 			color: #462B5C;
 			transition:all 1s;
 			width:165px;
@@ -158,14 +158,5 @@
 			opacity:1;
 			cursor:pointer;
 			font-size:24px;
-			
-			
-			
-			
-			
-			
-			
-			   
-			
-		}
+			}
 
