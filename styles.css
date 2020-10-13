@@ -145,3 +145,27 @@
 			/* color:white !important;
 			 */
 		}
+
+
+#input3:hover{
+			
+			background:white;
+			color: #462B5C;
+			transition:all 1s;
+			width:165px;
+			height:50px;
+			border-radius:5px;
+			opacity:1;
+			cursor:pointer;
+			font-size:24px;
+			
+			
+			
+			
+			
+			
+			
+			   
+			
+		}
+
